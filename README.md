@@ -1,4 +1,4 @@
-## Olá, eu sou o Anderson Ferreira👋
+## Olá, meu nome é Anderson Ferreira👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-ferreira-35757b254/)
 
