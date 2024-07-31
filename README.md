@@ -11,4 +11,4 @@
 
 Apaixonado por tecnologia e buscando melhorar mais a cada dia.
 
-## Em busca do meu primeiro trabalho como desenvolvedor Front End!
+
